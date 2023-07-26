@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="news">NEWS</string>
+    <string name="news_image">News Image</string>
+    <string name="bbc">BBC</string>
+    <string name="aljazera">AlJazera</string>
+    <string name="cnn">CNN</string>
+    <string name="fox_news">Fox News</string>
+    <string name="sky_news">Sky News</string>
+    <string name="upcoming">UpComing</string>
+    <string name="new_york_times">New York Times</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="openDrawer">openDrawer</string>
+    <string name="clodeDrawer">closeDrawer</string>
+    <string name="nbc">NBC</string>
+    <string name="espn">ESPN</string>
+</resources>
